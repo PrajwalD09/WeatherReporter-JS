@@ -31,4 +31,4 @@ The JavaScript code in this app interacts with the OpenWeatherMap API to fetch w
 
 - JavaScript
 - API Integration
-- Frontend De
+- Frontend Development
